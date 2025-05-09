@@ -49,7 +49,7 @@ With Python scripts in one hand and Power BI dashboards in the other, I connect 
 
 > **Goal:** Predict sales using time series models & display trends in real time.  
 > **Tools:** Tableau
-🔗 [View Project](#)
+🔗 [View Project](https://github.com/DatagirlieAD/Dynamic-Company-and-Customer-Sales-Dashboard)
 
 ---
 
