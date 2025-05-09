@@ -35,8 +35,7 @@ With Python scripts in one hand and Power BI dashboards in the other, I connect 
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DatagirlieAD&show_icons=true&theme=dark&hide_title=true&hide_border=true&count_private=true" height="165" />
+<p align="center">  
   <img src="https://github-readme-streak-stats.herokuapp.com?user=DatagirlieAD&theme=dark&hide_border=true" height="165" />
 </p>
 
