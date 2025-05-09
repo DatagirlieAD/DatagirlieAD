@@ -2,6 +2,10 @@
 <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
+<div align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=DatagirlieAD.DatagirlieAD"  />
+</div>
+
 # 👋 Hey there! I'm Adwoa
 
 🎯 **Data Analyst | Insight Hunter | Cloud Explorer | Multilingual Problem-Solver**
