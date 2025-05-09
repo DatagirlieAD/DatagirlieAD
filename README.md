@@ -67,7 +67,7 @@ With Python scripts in one hand and Power BI dashboards in the other, I connect 
 
 > **Goal:** Help hospitals identify inefficiencies in patient care.  
 > **Tools:** Excel  
-🔗 [View Project](#)
+🔗 [View Project](https://github.com/DatagirlieAD/DepartmentOfOrthopedicMetrics-)
 
 
 ---
