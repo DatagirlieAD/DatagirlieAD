@@ -58,7 +58,7 @@ With Python scripts in one hand and Power BI dashboards in the other, I connect 
 
 > **Goal:** Visualize employee trends like attrition, absenteeism, and DEI stats.  
 > **Tools:** Power BI, SQL Server 
-🔗 [View Project](#)
+🔗 [View Project](https://github.com/DatagirlieAD/HumanResourceEDA)
 
 ---
 
