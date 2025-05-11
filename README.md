@@ -40,15 +40,6 @@ With Python scripts in one hand and Power BI dashboards in the other, I connect 
 </p>
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">  
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=DatagirlieAD&theme=dark&hide_border=true" height="165" />
-</p>
-
----
-
 ## 📌 Featured Projects
 
 ### 📈 Customer and Sales KPI Dashboard – *Tableau*
@@ -70,8 +61,6 @@ With Python scripts in one hand and Power BI dashboards in the other, I connect 
 ---
 
 ### 🏥 Orthopedic Department Metrics 2023 – *Excel*
-<img src="https://your-image-url/healthcare_dashboard.png" width="100%" alt="Healthcare KPI Dashboard"/>
-
 > **Goal:** Help hospitals identify inefficiencies in patient care.  
 > **Tools:** Excel  
 🔗 [View Project](https://github.com/DatagirlieAD/DepartmentOfOrthopedicMetrics-)
@@ -102,6 +91,13 @@ With Python scripts in one hand and Power BI dashboards in the other, I connect 
 - 💬 Speak 5 languages
 - 🎮 Gamer, storyteller, dashboard designer – I love seeing people *get* data
 - 🤝 I care about making tech inclusive, accessible, and fun to learn
+
+---
+## 📊 GitHub Stats
+
+<p align="center">  
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=DatagirlieAD&theme=dark&hide_border=true" height="165" />
+</p>
 
 ---
 
