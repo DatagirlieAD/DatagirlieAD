@@ -52,7 +52,7 @@ With Python scripts in one hand and Power BI dashboards in the other, I connect 
 ---
 
 ### 📊 HR Analytics Dashboard – *Power BI + MySQL*
-<img src="https://your-image-url/hr_dashboard.png" width="100%" alt="HR Analytics Dashboard"/>
+<img width="1024" alt="Screenshot 2024-11-28 at 18 26 41" src="https://github.com/user-attachments/assets/8e093323-9c22-4e82-9bd2-5bce75f4ab90">
 
 > **Goal:** Visualize employee trends like attrition, absenteeism, and DEI stats.  
 > **Tools:** Power BI, SQL Server 
