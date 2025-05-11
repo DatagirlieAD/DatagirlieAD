@@ -43,7 +43,7 @@ With Python scripts in one hand and Power BI dashboards in the other, I connect 
 ## 📌 Featured Projects
 
 ### 📈 Customer and Sales KPI Dashboard – *Tableau*
-<img src="https://your-image-url/sales_forecasting.png" width="100%" alt="Sales Forecasting"/>
+<img width="1204" alt="Screenshot 2025-02-06 at 15 57 11" src="https://github.com/user-attachments/assets/bcc96528-701a-4e6a-a417-2c0665e8e0e3" />
 
 > **Goal:** Predict sales using time series models & display trends in real time.  
 > **Tools:** Tableau
