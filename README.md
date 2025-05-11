@@ -61,19 +61,10 @@ With Python scripts in one hand and Power BI dashboards in the other, I connect 
 ---
 
 ### 🏥 Orthopedic Department Metrics 2023 – *Excel*
+![image](https://github.com/user-attachments/assets/51f9a429-01ae-4679-849b-542c4727ccd7)
 > **Goal:** Help hospitals identify inefficiencies in patient care.  
 > **Tools:** Excel  
 🔗 [View Project](https://github.com/DatagirlieAD/DepartmentOfOrthopedicMetrics-)
-
-
----
-
-### 🤖 AI Data Annotation – *Text, Image, Video*
-<img src="https://your-image-url/annotation_project.png" width="100%" alt="Data Annotation Sample"/>
-
-> **Goal:** Train NLP & computer vision models using high-quality annotations.  
-> **Tools:** Labelbox, Excel, Python, internal tools  
-🔗 [View Project](#)
 
 ---
 
