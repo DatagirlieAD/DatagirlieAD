@@ -85,13 +85,6 @@ With Python scripts in one hand and Power BI dashboards in the other, I connect 
 - 🤝 I care about making tech inclusive, accessible, and fun to learn
 
 ---
-## 📊 GitHub Stats
-
-<p align="center">  
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=DatagirlieAD&theme=dark&hide_border=true" height="165" />
-</p>
-
----
 
 ## 📬 Let's Connect
 
