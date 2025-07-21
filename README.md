@@ -8,7 +8,7 @@
 
 # 👋 Hey there! I'm Adwoa
 
-🎯 **Data Analyst | Insight Hunter | Cloud Explorer | Multilingual Problem-Solver**
+🎯 **Data Analyst | Project Manager | Insight Hunter | Cloud Explorer | Multilingual Problem-Solver**
 
 Welcome to my GitHub, where data meets storytelling and dashboards come to life. I’m a former peacebuilder turned data wrangler, using tech to make sense of the mess and find meaning in the numbers. Whether it’s healthcare stats, HR metrics, or customer journeys—I love turning raw data into something that *clicks*.
 
