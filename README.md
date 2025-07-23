@@ -71,7 +71,8 @@ With Python scripts in one hand and Power BI dashboards in the other, I connect 
 ## 🚀 Open To Opportunities
 
 ✅ **Data Analyst** – Remote / Onsite             
-✅ **Analyst Roles** – Remote / Onsite                  
+✅ **Analyst Roles** – Remote / Onsite    
+✅ **Project Management Roles** – Remote / Onsite 
 ✅ **Freelance / Internship**  
 ✅ **Customer Support** – SaaS or data-driven roles
 
