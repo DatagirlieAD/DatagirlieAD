@@ -8,15 +8,15 @@
 
 # 👋 Hey there! I'm Adwoa
 
-🎯 **Data Analyst | Project Manager | Insight Hunter | Cloud Explorer | Multilingual Problem-Solver**
+🎯 **Insight Hunter | Multilingual Problem-Solver | Project Manager | Data & Cloud Explorer | Regulated Industries (Biotech, Energy, SaaS)**
 
-Welcome to my GitHub, where data meets storytelling and dashboards come to life. I’m a former peacebuilder turned data wrangler, using tech to make sense of the mess and find meaning in the numbers. Whether it’s healthcare stats, HR metrics, or customer journeys—I love turning raw data into something that *clicks*.
+Welcome to my GitHub, where data meets storytelling and dashboards come to life. I’m a former peacebuilder turned data wrangler, using tech to make sense of the mess and find meaning in the numbers. Whether it’s healthcare stats, HR metrics, or customer journeys, I love turning raw data into something that *clicks*.
 
-🌍 I’ve worked across industries—from government, business and manufacturing to education and tech—and oh...I speak 5 languages (yep, really).
+🌍 I’ve worked across industries,from government, business and manufacturing to education and tech, and oh...I speak 5 languages (yep, really).
 
 With Python scripts in one hand and Power BI dashboards in the other, I connect the dots, simplify the complex, and deliver insights that help teams make better, faster decisions.
 
-🧠 *Data isn't gibberish — it's a precious mineral and its story is waiting to be told. Let's tell it right.*
+🧠 *Data isn't gibberish; it's a precious mineral and its story is waiting to be told. Let's tell it right.*
 
 
 ---
@@ -80,9 +80,9 @@ With Python scripts in one hand and Power BI dashboards in the other, I connect 
 
 ## ✨ A Bit More About Me
 
-- 🎓 Degree in Peace & Development + a tech pivot that taught me everything from the ground up
+- 🎓 Master's Degree in Peace & Development + a tech pivot that taught me everything from the ground up
 - 💬 Speak 5 languages
-- 🎮 Gamer, storyteller, dashboard designer – I love seeing people *get* data
+- 🎮 Gamer, storyteller, dashboard designer, I love seeing people *get* data
 - 🤝 I care about making tech inclusive, accessible, and fun to learn
 
 ---
